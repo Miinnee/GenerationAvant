@@ -1,4 +1,4 @@
-# 🇫🇷 GaIA , Générateur de Personnes non Joueur
+# 🇫🇷 GaIA , Générateur de Personnage non Joueur
 
 ## Attention 
 
@@ -13,7 +13,7 @@ Crédit : Si vous reconnaissez une partie de vos programmes je tiens à m'excuse
  - Les fork sont recommandés, le programme a été créé uniquement pour faire du filtrages humain, et offre a l'utilisateur le choix ou non d'accepter l'image.
 
 
-# 🇬🇧 GaIA , Generator of Character no player
+# 🇬🇧 GaIA , Generator of no Playet Character
 
 ## Attention 
 
